@@ -28,7 +28,6 @@
 [<img align="left" alt="JSON" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/json.svg" />](https://www.json.org/json-en.html)
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/git.svg" />](https://git-scm.com/downloads/logos)
 [<img align="left" alt="Git Kraken" width="26px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/others/gitkraken.svg" />](https://www.gitkraken.com)
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
 <br />
